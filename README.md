@@ -4,22 +4,8 @@ Thank you for visiting my GitHub Profile, Here you will find a history of some o
 
 👽️ About Me
 ---
--🌱 I am a student at `Epicodus` learning `full-stack web development`, and I am aiming to become a `backend specialist`. I will graduate in October of 2023. Afterward, I will continue my education by pursuing a Computer Science degree.
+- 🌱 I am a student at **Epicodus** learning **full-stack web development**, and I am aiming to become a backend specialist. I will graduate in October of 2023. Afterward, I will continue my education by pursuing a **Computer Science degree**.
+- 🔭 At the moment I am **finishing up my C# course**, Learning about APIs so I can collaborate with a team for our final week project.
+- 👔 I enjoy working with **MySQL server** in **C#**, Testing with **Jest** and **MSTEST** was tricky but very effective at catching errors. For my TeamWeek project for **JavaScript** I very enthusiastically learned to work with **P.5**, and now have picked up **Unity** in my spare time. 
+- 🧵 Outside of the Tech World, I have many hobbies. I enjoy listening to **music** from the '90s, watching **bad movies** with my father, and working on my **cardio** when the stress gets to be too much.
 
--
-
-
-<!--
-**Molagg92/Molagg92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
