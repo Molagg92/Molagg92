@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 My name is Erik Zambrano 
+
+Thank you for visiting my GitHub Profile, Here you will find a history of some of the projects I've worked on, in my career as a developer.
+
+👽️ ### About Me
+---
+
+
 
 <!--
 **Molagg92/Molagg92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
