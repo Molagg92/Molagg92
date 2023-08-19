@@ -2,9 +2,11 @@
 
 Thank you for visiting my GitHub Profile, Here you will find a history of some of the projects I've worked on, in my career as a developer.
 
-👽️ ### About Me
+👽️ About Me
 ---
+-🌱 I am a student at `Epicodus` learning `full-stack web development`, and I am aiming to become a `backend specialist`. I will graduate in October of 2023. Afterward, I will continue my education by pursuing a Computer Science degree.
 
+-
 
 
 <!--
