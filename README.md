@@ -11,4 +11,4 @@ Thank you for visiting my GitHub Profile. Here you will find a history of some o
 
 🔍️ Skills
 ---
-#E34F26
+	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
