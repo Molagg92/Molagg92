@@ -1,4 +1,7 @@
-### Hi there 👋 My name is Erik Zambrano 
+![image](https://github.com/Molagg92/Molagg92/assets/122249013/564ae629-31ee-496c-9f0c-8f0a49df16b9)
+
+
+### Hello 👋 My name is Erik!
 
 Thank you for visiting my GitHub Profile!
 Here you will find a history of some of the projects I've worked on, in my career as a developer.
