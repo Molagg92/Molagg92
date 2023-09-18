@@ -8,6 +8,7 @@ Here you will find a history of some of the projects I've worked on, in my caree
 
 👽️ About Me
 ---
+
 - 🌱 I am a student at **Epicodus** learning **full-stack web development**, and I am aiming to become a backend specialist. I will graduate in October of 2023. Afterward, I will continue my education by pursuing a **Computer Science Degree**.
   
 - 🔭 At the moment I am **finishing up my C# course**, Learning about APIs so I can collaborate with a team for our final week project.
@@ -20,6 +21,10 @@ Here you will find a history of some of the projects I've worked on, in my caree
   
 🔍️ Skills
 ---
+<img align="right" width="400px" alt="Codeing" src=https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif>
+
+
+
 **Languages** <br>
  ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
